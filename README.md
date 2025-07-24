@@ -35,7 +35,7 @@ This is a simple, analog robot that follows light using two LDRs and a pair of r
 ---
 
 ## ⚙️ Circuit Diagram
-(https://www.electronicsforu.com/wp-contents/uploads/2020/03/Light-follower-robot-circuit-1.jpg)
+(https://www.electronicsforu.com/electronics-projects/light-follower-robot)
 
 *(Hosted directly by EFY. You can download and re-upload if needed.)*
 
